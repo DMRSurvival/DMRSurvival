@@ -1,5 +1,2 @@
-At Dark Mountain Research, our mission is to empower individuals to reclaim their privacy, secure their personal information, and resist the invasive and unethical practices that threaten our anonymity in the digital age. Born from a legacy of survival in tough places... we now face a new frontier where the struggle for privacy and personal security is more crucial than ever.
-
-We are committed to identifying practical solutions that enable people to protect themselves from the relentless farming, collecting, cataloging, and selling of their personal data. Our dedication to this cause is driven by a belief in the fundamental right to privacy and the urgent need to combat the exploitation of personal information for profit.
-
-Dark Mountain Research stands as a valuable partner in your quest for autonomy, helping you navigate the complexities of the digital landscape with confidence and security. We emphasize the use of decentralized and secure communication methods, ensuring that your interactions remain private and protected.
+# Welcome to Dark Mountain Research
+After retiring fom the military, I started Dark Mountain Research in 2009 - originally DMR was a source for Navigation, Survival, and Emergency Medical equipment and instruction
